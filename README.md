@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reginaldo Melo
-- 👀 I’m interested in IT programming, Big Data Drive, AI/ML, read books a lot! and travel around the world.
+- 👀 I’m interested in IT programming, Big Data Driven, AI/ML, read books a lot! and travel around the world.
 - 🌱 I’m currently learning AI/ML and Data Engineer as well.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on LinkedIn https://www.linkedin.com/in/melo-r
